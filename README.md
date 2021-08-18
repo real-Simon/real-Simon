@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Simon.py
+- 👀 I’m interested in create 'packages' for easier coding
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me: simon.arnold09@outlook.de
